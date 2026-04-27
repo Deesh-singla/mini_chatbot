@@ -1,0 +1,27 @@
+{
+  "name": "mini_chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deesh-singla/mini_chatbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deesh-singla/mini_chatbot/issues"
+  },
+  "dependencies": {
+    "@langchain/mistralai": "^1.0.7",
+    "dotenv": "^16.6.1",
+    "readline": "^1.3.0",
+    "lanchain":"^1.3.3"
+  },
+  "homepage": "https://github.com/Deesh-singla/mini_chatbot#readme"
+}
